@@ -11,8 +11,8 @@ Where you want to break out into full width use the following.
 
 Add your full width content here.
 
-<div class="row">
-<div class="desktop-12 tablet-6 mobile-3">
+<div class="row"><!-- re-initialize the row container -->
+<div class="desktop-12 tablet-6 mobile-3"><!-- re-initialize the desktop / tablet / mobile container -->
 ```
 
 click save when done.
